@@ -189,7 +189,7 @@ input, select, textarea {
 			-webkit-column-gap: 2em;
 			-ms-column-gap: 2em;
 			column-gap: 2em;
-			text-align: justify;
+			text-align: left;
 		}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3123,7 +3123,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 3em 5em 1em 5em ;
+		padding: 2em 5em 1em 5em ;
 		text-align: center;
 	}
 
@@ -3632,7 +3632,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 3em 5em 2em 5em ;
 			border-top: solid 1px #dddddd;
 		}
 
