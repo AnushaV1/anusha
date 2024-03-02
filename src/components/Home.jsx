@@ -13,12 +13,9 @@ const Home = () => {
 	<div className='left'>
 <p>Welcome to my portfolio! I'm a passionate Software Engineer specializing in full stack web development.
 	My journey in software engineering has been marked by a pursuit of knowledge.
-	Driven by a relentless curiosity, I'm committed to pushing boundaries
-	 and exploring the boundless opportunties within software engineering. I've cultivated my expertise in cloud technologies, leveraging platforms such as AWS and 
-	 Azure to create robust and scalable solutions. Whether it's a programming language, cloud technologies, architecting solutions, or infrastructure development, I'm constantly seeking new challenges to expand my horizons.
+	Fueled by unyielding curiosity, I'm dedicated to exploring the endless possibilities within software engineering, refining my expertise in cloud technologies like AWS and Azure to deliver robust and scalable solutions through hands-on experience. Whether mastering a new programming language, architecting innovative solutions, or developing infrastructure, I relentlessly pursue new challenges to broaden my horizons.
 	 </p><p>Currently, I'm immersed in mastering DevOps methodologies to streamline development processes and enhance deployment efficiency.
-	  Through hands-on experience and a thirst for innovation, I continuously strive to push the boundaries of possibilities in the digital realm.
-	  </p><p> Outside of coding, I relish spending quality time with my family, listening to soul-stirring melodies, gardening, and seeking serenity through yoga and meditation.
+	   </p><p> Outside of coding, I relish spending quality time with my family, listening to soul-stirring melodies, gardening, and seeking serenity through yoga and meditation.
 	  </p><p>Through this portfolio, I invite you to delve into my world, explore my works, and witness the passion that fuels my journey. </p>
 	</div>
 	<div className='right spotlight'><div>	
