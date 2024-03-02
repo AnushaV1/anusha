@@ -71,7 +71,7 @@ export const certificationData = [
       institution: "Simplilearn",
       certification: "Cloud Computing Capstone Project",
       completed: "October 2023",
-      image:"images/SpringboardSECertificate.jpg"
+      image:"images/Bootcamp-Masterclass.png"
     },
     {
       id: 10,
