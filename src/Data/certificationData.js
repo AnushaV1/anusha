@@ -21,14 +21,14 @@ export const certificationData = [
       institution: "Springboard Online",
       certification: "Software Engineering Career Track",
       completed: "February 2021",  
-      image:"/images/SpringboardSECertificate.jpg"  
+      image:"images/SpringboardSECertificate.jpg"  
     },
     {
       id: 4,
       institution: "Simplilearn",
       certification: "DevOps on AWS",
       completed: "December 2023",
-      image:"/images/Caltech-DevOps-AWS-Cert.png"
+      image:"images/Caltech-DevOps-AWS-Cert.png"
     },
     {
       id: 5,
@@ -50,50 +50,50 @@ export const certificationData = [
       institution: "Simplilearn",
       certification: "Azure Cloud Fundamentals",
       completed: "August 2023",
-      image:"/images/Azure-certificate.png"
+      image:"images/Azure-certificate.png"
     },
     {
       id: 7,
       institution: "Simplilearn",
       certification: "Implement, manage, and monitor on Azure environment",
       completed: "September 2023",
-      image:"/images/Azure-104-certificate.png"
+      image:"images/Azure-104-certificate.png"
     },
     {
       id: 8,
       institution: "Simplilearn",
       certification: "Designing infrastructure solutions on Azure 305",
       completed: "October 2023",
-      image:"/images/Azure-305-Simplilearn-certificate.png"
+      image:"images/Azure-305-Simplilearn-certificate.png"
     },
     {
       id: 9,
       institution: "Simplilearn",
       certification: "Cloud Computing Capstone Project",
       completed: "October 2023",
-      image:"/images/SpringboardSECertificate.jpg"
+      image:"images/SpringboardSECertificate.jpg"
     },
     {
       id: 10,
       institution: "Simplilearn",
       certification: "DevOps on AWS",
       completed: "December 2023",
-      image:"/images/Caltech-DevOps-AWS-Cert.png"
+      image:"images/Caltech-DevOps-AWS-Cert.png"
     },
     {
       id: 11,
       institution: "Simplilearn",
       certification: " Caltech Bootcamp Masterclass",
       completed: "August 2023",
-      image:"/images/Bootcamp-Masterclass.png"
+      image:"images/Bootcamp-Masterclass.png"
     },
     {
       id: 12,
       institution: "AWS",
       certification: "Cloud Computing 101",
       completed: "February 2024",
-      badge: "/images/aws-educate-introduction-to-cloud-101.png",
-      image:"/images/aws-educate-introduction-to-cloud-101-large.png",
+      badge: "images/aws-educate-introduction-to-cloud-101.png",
+      image:"images/aws-educate-introduction-to-cloud-101-large.png",
       link:"https://www.credly.com/badges/4275809a-f3d8-48f2-a33c-9b96fe486cd8/public_url"
     },
     {
@@ -101,12 +101,9 @@ export const certificationData = [
       institution: "IBM",
       certification: "Cloud Computing Core",
       completed: "April 2023",
-      badge: "/images/cloud-computing-core.png",
-      image:"/images/cloud-computing-core-large.png",
+      badge: "images/cloud-computing-core.png",
+      image:"images/cloud-computing-core-large.png",
       link:"https://www.credly.com/badges/12dcf127-1c8f-40fe-be81-a0fc2ae943d8/public_url"
     }
-
-    
-
-  ];
+     ];
 

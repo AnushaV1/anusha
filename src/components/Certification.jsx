@@ -3,7 +3,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import {Card, Modal} from "react-bootstrap";
-import {certificationData} from '../Data/certificationData';
+import {certificationData} from '../Data/certificationData.js';
 import '../assets/css/Certification.css';
 import '../assets/css/Sliders.css';
 
@@ -106,15 +106,12 @@ const Certification = () => {
 </Card>
   </div>
 
-  <Modal show={showModal}  onHide={closeModal} className="customModal" backdrop="false">
-      <Modal.Body className='modal-body'>
-
-       <img
-                    src={selectedImage}
-                    alt={'img'}                 
-                  />
-                  <button className="modal-close" onClick={closeModal}>&times;</button>
-
+  <Modal show={showModal}  onHide={closeModal} className="customModal" scrollable={true} centered>
+    <Modal.Header closeButton></Modal.Header>
+      <Modal.Body>
+       <img 
+          src={selectedImage} alt={'img'}   />
+               
       </Modal.Body>
   </Modal>
 </>
