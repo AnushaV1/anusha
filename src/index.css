@@ -268,8 +268,25 @@ ol, ul {
 
 /* Icons */
 .icons {
-	padding: 10px;
+    padding-top:10px;
+	margin-left: 55px;
 	text-align: center;
+}
+
+@media screen and (max-width: 736px) {
+	.icons {
+		padding-top:10px;
+		text-align: left;
+		margin-left: 40px;
+	}
+}
+
+@media screen and (max-width: 360px) {
+	.icons {
+		padding-top:10px;
+		text-align: left;
+		margin-left: 20px;
+	}
 }
 
 /* Section */

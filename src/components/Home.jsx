@@ -20,7 +20,7 @@ const Home = () => {
 	</div>
 	<div className='right spotlight'><div>	
 <div className="image"><img src={anushaImg} alt="Anusha V" /></div>				
-<div className='icons'>
+<div className='icons' style={{marginLeft:'55px'}}>
 <a href="http://www.linkedin.com/in/anusha-venkataraghavan" target="_blank" rel="noopener noreferrer"><span><FontAwesomeIcon className="social" icon={faLinkedin} inverse/></span></a>
 <a href="https://github.com/AnushaV1" target="_blank" rel="noopener noreferrer"><span><FontAwesomeIcon className="social" icon={faGithub} inverse /></span></a>
 <a href="./images/Resume_Anusha.pdf" id="resume-download" download="anushav-resume"><span><FontAwesomeIcon className="social" icon={faFileDownload} inverse /></span></a>
