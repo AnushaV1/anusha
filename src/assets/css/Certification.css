@@ -1,0 +1,139 @@
+:root {
+  --cyan: #5ff0d0;
+  --purple: #a89cc8;
+}
+
+
+
+
+
+
+.dotsContainerStyles {
+    display: flex;
+    justify-content: center;
+}
+
+.dotStyle {
+    margin: 0 3px;
+    cursor: pointer;
+    font-size: 20px;
+    color:#fff;
+  }
+
+
+  .modalImage {
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+  }
+  
+  .customModal {
+    position: fixed;
+    top: 40%;
+    left: 50%;
+    width: 80%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(-50%, -30%); 
+    background-color: rgba(241, 243, 239, 0);
+   }
+
+.modal-open #wrapper {
+  filter: blur(2px);
+}
+
+  /* .modal {
+    border: 1px solid #48abe0;
+  } */
+ 
+
+  .modal-body .modal-close {
+    color: black;
+    text-align: center;
+    cursor: pointer;
+    font-size: 2rem;
+    z-index:9999;
+      position: absolute;
+      top: 0;
+      left:45%;
+      background-color: tranparent;
+      border: none;
+      border-radius: 5px;
+  }
+
+  .modal-body .modal-close:hover {
+      background: #999;
+      color: black;
+  }
+  
+  .modal-content {
+    max-width: 100%; 
+  }
+  
+  .modal-body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh; 
+  }
+  
+  .modal-body img {
+    max-width: 100%; 
+    max-height: 100%; 
+    object-fit: contain; 
+  }
+
+
+  .card {
+    padding: 0.7rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: #48abe0;
+    text-align: center;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0 0 10px 10px #48abe0;
+  }
+
+  .cardBody {
+    border:1px solid #48abe0;
+     width: 17rem;
+     height:15rem;
+     font-size: 1.3rem;
+     justify-content: center;
+  }
+  
+  .card.reactive {
+    box-shadow: none;
+  }
+  
+  .card.reactive:hover {
+    box-shadow: 0 0 30px 10px #48abe0;
+  }
+
+.card-image {
+  object-fit: contain; 
+}
+
+.card-body {
+  width: 17rem;
+  height:15rem;
+}
+
+.title {
+  line-height: 1.6;
+  padding-bottom: 10px;
+}
+
+
+.slick-dots li button:before, 
+.slick-dots li.slick-active button:before  {
+background-color: whitesmoke;
+color: transparent;
+}
+
+ 
