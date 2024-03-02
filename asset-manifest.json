@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/anusha/static/css/main.fc819c2d.css",
-    "main.js": "/anusha/static/js/main.79e7de06.js",
+    "main.css": "/anusha/static/css/main.37de2a5f.css",
+    "main.js": "/anusha/static/js/main.ddb734bf.js",
     "static/js/453.3108120c.chunk.js": "/anusha/static/js/453.3108120c.chunk.js",
     "static/media/Anusha_V.png": "/anusha/static/media/Anusha_V.b11672ecdd5f52bfbc4e.png",
     "static/media/book-stack.jpg": "/anusha/static/media/book-stack.c1dcf635f8449752af52.jpg",
@@ -13,12 +13,12 @@
     "static/media/slick.ttf": "/anusha/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/anusha/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/anusha/index.html",
-    "main.fc819c2d.css.map": "/anusha/static/css/main.fc819c2d.css.map",
-    "main.79e7de06.js.map": "/anusha/static/js/main.79e7de06.js.map",
+    "main.37de2a5f.css.map": "/anusha/static/css/main.37de2a5f.css.map",
+    "main.ddb734bf.js.map": "/anusha/static/js/main.ddb734bf.js.map",
     "453.3108120c.chunk.js.map": "/anusha/static/js/453.3108120c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fc819c2d.css",
-    "static/js/main.79e7de06.js"
+    "static/css/main.37de2a5f.css",
+    "static/js/main.ddb734bf.js"
   ]
 }
