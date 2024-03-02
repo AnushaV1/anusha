@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/anusha/static/css/main.8439f0fb.css",
-    "main.js": "/anusha/static/js/main.f18936b0.js",
+    "main.js": "/anusha/static/js/main.48ce2ca1.js",
     "static/js/453.3108120c.chunk.js": "/anusha/static/js/453.3108120c.chunk.js",
     "static/media/Anusha_V.png": "/anusha/static/media/Anusha_V.b11672ecdd5f52bfbc4e.png",
     "static/media/book-stack.jpg": "/anusha/static/media/book-stack.c1dcf635f8449752af52.jpg",
@@ -14,11 +14,11 @@
     "static/media/slick.woff": "/anusha/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/anusha/index.html",
     "main.8439f0fb.css.map": "/anusha/static/css/main.8439f0fb.css.map",
-    "main.f18936b0.js.map": "/anusha/static/js/main.f18936b0.js.map",
+    "main.48ce2ca1.js.map": "/anusha/static/js/main.48ce2ca1.js.map",
     "453.3108120c.chunk.js.map": "/anusha/static/js/453.3108120c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8439f0fb.css",
-    "static/js/main.f18936b0.js"
+    "static/js/main.48ce2ca1.js"
   ]
 }
