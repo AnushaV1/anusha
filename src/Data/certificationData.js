@@ -10,6 +10,14 @@ export const certificationData = [
   },
   {
     id: 2,
+    institution: "Microsoft",
+    certification: "Microsoft Certified: Azure Fundamentals",
+    completed: "December 2024",  
+    image:"images/Microsoft-AZ-900-Certificate.pdf",
+    link:"https://learn.microsoft.com/en-us/users/anushavenkataraghavan-4762/credentials/4c2efb5b1ca4dc76?ref=https%3A%2F%2Fwww.linkedin.com%2F"    
+  },
+  {
+    id: 3,
     institution: "Caltech CTME",
     certification: "Cloud Computing Bootcamp",
     completed: "October 2023",  
@@ -17,28 +25,28 @@ export const certificationData = [
   },
 
     {
-      id: 3,
+      id: 4,
       institution: "Springboard Online",
       certification: "Software Engineering Career Track",
       completed: "February 2021",  
       image:"images/SpringboardSECertificate.jpg"  
     },
     {
-      id: 4,
+      id: 5,
       institution: "Simplilearn",
       certification: "DevOps on AWS",
       completed: "December 2023",
       image:"images/Caltech-DevOps-AWS-Cert.png"
     },
     {
-      id: 5,
+      id: 6,
       institution: "Simplilearn",
       certification: "AWS Cloud Fundamentals",
       completed: "June 2023",
       image:"images/AWS-Cloud-Fundamentals.png"  
      },
     {
-      id: 5,
+      id: 7,
       institution: "Simplilearn",
       certification: "Designing applications & architectures in AWS",
       completed: "July 2023",
@@ -46,49 +54,49 @@ export const certificationData = [
      },
    
     {
-      id: 6,
+      id: 8,
       institution: "Simplilearn",
       certification: "Azure Cloud Fundamentals",
       completed: "August 2023",
       image:"images/Azure-certificate.png"
     },
     {
-      id: 7,
+      id: 9,
       institution: "Simplilearn",
       certification: "Implement, manage, and monitor on Azure environment",
       completed: "September 2023",
       image:"images/Azure-104-certificate.png"
     },
     {
-      id: 8,
+      id: 10,
       institution: "Simplilearn",
       certification: "Designing infrastructure solutions on Azure 305",
       completed: "October 2023",
       image:"images/Azure-305-Simplilearn-certificate.png"
     },
     {
-      id: 9,
+      id: 11,
       institution: "Simplilearn",
       certification: "Cloud Computing Capstone Project",
       completed: "October 2023",
       image:"images/Bootcamp-Masterclass.png"
     },
     {
-      id: 10,
+      id: 12,
       institution: "Simplilearn",
       certification: "DevOps on AWS",
       completed: "December 2023",
       image:"images/Caltech-DevOps-AWS-Cert.png"
     },
     {
-      id: 11,
+      id: 13,
       institution: "Simplilearn",
       certification: " Caltech Bootcamp Masterclass",
       completed: "August 2023",
       image:"images/Bootcamp-Masterclass.png"
     },
     {
-      id: 12,
+      id: 14,
       institution: "AWS",
       certification: "Cloud Computing 101",
       completed: "February 2024",
@@ -97,7 +105,7 @@ export const certificationData = [
       link:"https://www.credly.com/badges/4275809a-f3d8-48f2-a33c-9b96fe486cd8/public_url"
     },
     {
-      id: 13,
+      id: 15,
       institution: "IBM",
       certification: "Cloud Computing Core",
       completed: "April 2023",
