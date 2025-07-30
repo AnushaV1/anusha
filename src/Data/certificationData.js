@@ -13,7 +13,7 @@ export const certificationData = [
     institution: "Microsoft",
     certification: "Microsoft Certified: Azure Fundamentals",
     completed: "December 2024",  
-    image:"images/Microsoft-AZ-900-Certificate.pdf",
+    image:"images/Microsoft-AZ-900-Certificate.png",
     link:"https://learn.microsoft.com/en-us/users/anushavenkataraghavan-4762/credentials/4c2efb5b1ca4dc76?ref=https%3A%2F%2Fwww.linkedin.com%2F"    
   },
   {
