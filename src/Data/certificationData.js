@@ -2,11 +2,11 @@ export const certificationData = [
   {
     id: 1,
     institution: "AWS",
-    certification: "Cloud Solution Architect Associate",
+    certification: "Cloud Solution Architect - Associate",
     completed: "September 2023",  
     badge:"images/saabadge.jpg",
     image:"images/AWSCertifiedSAA.png",
-    link:"https://www.credly.com/badges/8ca205db-8463-46fc-b80a-2ed6b795a891/public_url"    
+    link:"https://www.credly.com/badges/8ca205db-8463-46fc-b80a-2ed6b795a891/public_url",    
   },
   {
     id: 2,
