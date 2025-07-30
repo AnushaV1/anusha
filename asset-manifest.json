@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/anusha/static/css/main.72d99018.css",
+    "main.js": "/anusha/static/js/main.99b41ec3.js",
+    "static/js/453.abc64f20.chunk.js": "/anusha/static/js/453.abc64f20.chunk.js",
+    "static/media/Anusha_V.png": "/anusha/static/media/Anusha_V.b11672ecdd5f52bfbc4e.png",
+    "static/media/book-stack.jpg": "/anusha/static/media/book-stack.c1dcf635f8449752af52.jpg",
+    "static/media/woman-technologist.png": "/anusha/static/media/woman-technologist.dcbfa5746e119d9913bc.png",
+    "static/media/MemeGenerator.PNG": "/anusha/static/media/MemeGenerator.cda519a83f87ab75fa66.PNG",
+    "static/media/Jobly.PNG": "/anusha/static/media/Jobly.a6f0d76f8ea2cd1c663e.PNG",
+    "static/media/slick.svg": "/anusha/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/anusha/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/anusha/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/anusha/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/anusha/index.html",
+    "main.72d99018.css.map": "/anusha/static/css/main.72d99018.css.map",
+    "main.99b41ec3.js.map": "/anusha/static/js/main.99b41ec3.js.map",
+    "453.abc64f20.chunk.js.map": "/anusha/static/js/453.abc64f20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72d99018.css",
+    "static/js/main.99b41ec3.js"
+  ]
+}
